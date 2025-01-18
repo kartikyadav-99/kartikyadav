@@ -1,5 +1,5 @@
 # kartikyadav
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+[![MasterHead](https://sparkwavegroup.com/wp-content/uploads/2022/07/Coding_01-1-1.gif)]
 <h1 align="center">Hi 👋, I'm Kartik Yadav</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
